@@ -1,0 +1,4 @@
+﻿Name;Date;Strike;Maturity;Type;Premium;Currency
+Option A;14/03/2025;155;02/06/2025;Call;2.75;EUR
+Option B;14/03/2025;156;20/03/2025;Call;0.60;EUR
+Option C;14/03/2025;150;02/06/2026;Put;5.00;EUR
